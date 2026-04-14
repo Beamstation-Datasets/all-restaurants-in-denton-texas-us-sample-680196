@@ -1,0 +1,12 @@
+{
+  "export_job_id": "75440463-6086-491b-94a2-11d90158c26c",
+  "id_short": 680196,
+  "published_at": "2026-04-14T19:40:28Z",
+  "repo_name": "all-restaurants-in-denton-texas-us-sample-680196",
+  "sample_asset_name": "beamstation_680196_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/680196/beamstation_680196_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_records": 35,
+  "sample_sha256": "6ec3d835ee189e07698923ba12cdd12e7ad56eb82e4b56fce7374324d3736a86",
+  "sample_size_bytes": 126138,
+  "total_records": 354
+}
