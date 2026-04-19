@@ -9,9 +9,9 @@
 | Dataset ID | `680196` |
 | Location | Denton |
 | Category | Restaurants |
-| Full dataset size | 354 records |
-| Free sample size | 35 records (9.89%) |
-| Last export | 2026-04-09T10:10:53.876202+00:00 |
+| Full dataset size | 353 records |
+| Free sample size | 35 records (9.92%) |
+| Last export | 2026-04-16T10:06:53.920789+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-denton-texas-us-sample-680196/releases/download/sample-latest/beamstation_680196_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
