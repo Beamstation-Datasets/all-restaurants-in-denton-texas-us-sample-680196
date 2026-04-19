@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "All verified restaurant listings in Denton, Texas with a population of over 139k. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in Denton, Texas, US",
-  "export_job_id": "75440463-6086-491b-94a2-11d90158c26c",
+  "export_job_id": "1c9bf5dd-fd04-4147-ad0d-a4eea790a125",
   "github_org": "Beamstation-Datasets",
   "id_short": 680196,
   "location_name": "Denton",
   "location_type": "city",
   "repo_name": "all-restaurants-in-denton-texas-us-sample-680196",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/680196/beamstation_680196_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_pct": 9.89,
+  "sample_pct": 9.92,
   "sample_records": 35,
-  "sample_sha256": "6ec3d835ee189e07698923ba12cdd12e7ad56eb82e4b56fce7374324d3736a86",
-  "sample_size_bytes": 126138,
-  "total_records": 354,
-  "updated_at": "2026-04-09T10:10:53.876202+00:00"
+  "sample_sha256": "fe26973c2aa56ce9b47c345923a0001cf3fd2da9a6fad32aa05dbfc3a05ac7f8",
+  "sample_size_bytes": 105883,
+  "total_records": 353,
+  "updated_at": "2026-04-16T10:06:53.920789+00:00"
 }
