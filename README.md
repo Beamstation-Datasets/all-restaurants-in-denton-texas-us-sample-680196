@@ -1,6 +1,6 @@
 # All Restaurants in Denton, Texas, US
 
-> Free BeamStation sample export with 27 rows and masked direct-contact fields.
+> Free BeamStation sample export with 42 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `680196` |
 | Location | Denton |
 | Category | Restaurants |
-| Full dataset size | 277 records |
-| Free sample size | 27 records (9.75%) |
-| Last export | 2026-04-23T10:01:20.675972+00:00 |
+| Full dataset size | 421 records |
+| Free sample size | 42 records (9.98%) |
+| Last export | 2026-04-30T10:06:46.369731+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-denton-texas-us-sample-680196/releases/download/sample-latest/beamstation_680196_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
